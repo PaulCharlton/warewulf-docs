@@ -22,7 +22,7 @@ Once the node has booted, it will request a runtime overlay (privileged http) at
 
 All the images which are transferred for provisioning are prebuilt static components and the per node connection processing is minimal. This means that Warewulf is as scalable as the physical infrastructure.
 
-Warewulf Design Tenants
+Warewulf Design Tenets
 =======================
 
 To enable simple, scalable and flexible operating system management at scale.
